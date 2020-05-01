@@ -1,1 +1,2 @@
 # rosalind
+Some bioinformatics algorithms
